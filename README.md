@@ -16,7 +16,7 @@ Train
 $ python train.py
 
 Test
-$ python eval.py
+$ python predict.py
 
 Reference
 https://github.com/hanyoseob/youtube-cnn-002-pytorch-unet
